@@ -21,7 +21,7 @@ const Hero = () => {
             <span className="text-vm-accent font-smooch font-400 text-lg">Premium Retail Solutions</span>
           </div>
           
-          <h1 className="text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-smooch font-100 text-white mb-6 leading-tight">
+          <h1 className="text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-smooch font-200 text-white mb-6 leading-tight">
             Elevating Your Brand at the
             <span className="block text-vm-accent">Point of Sale</span>
           </h1>
