@@ -31,7 +31,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <div className="flex-shrink-0">
-            <Link to="/" className="text-white text-xl font-smooch font-300 tracking-wide hover:text-vm-accent transition-colors duration-300">
+            <Link to="/" className="text-white text-xl font-smooch font-400 tracking-wide hover:text-vm-accent transition-colors duration-300">
               Vertex Merchandising
             </Link>
           </div>
