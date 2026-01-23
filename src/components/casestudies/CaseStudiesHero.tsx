@@ -3,7 +3,7 @@ import { BarChart3, Target, Award } from 'lucide-react';
 
 const CaseStudiesHero = () => {
   return (
-    <section className="py-20 bg-gradient-to-br from-vm-dark to-vm-primary text-white">
+    <section className="py-0 bg-gradient-to-br from-vm-dark to-vm-primary text-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h1 className="text-4xl lg:text-6xl font-smooch font-100 mb-6">
